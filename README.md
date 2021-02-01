@@ -63,11 +63,13 @@ Projeto em andamento.
 
 ## Colaboradores
 
-![Alex](https://github.com/AlexdoAmaral)
-![Antonio](https://github.com/Antonio-Marcos86)
-![Bruno](https://github.com/bruno28051988)
-![Eduardo](https://github.com/EduardoNathan)
-![Joyce](https://github.com/JoyceBueno)
-![Leonardo](https://github.com/leoschwedler)
-![Marcus](https://github.com/viniciusmatoso)
-![Michael](https://github.com/MichaelKnopacki)
+- [Alex](https://github.com/AlexdoAmaral)
+- [Antonio](https://github.com/Antonio-Marcos86)
+- [Bruno](https://github.com/bruno28051988)
+- [Eduardo](https://github.com/EduardoNathan)
+- [Joyce](https://github.com/JoyceBueno)
+- [Leonardo](https://github.com/leoschwedler)
+- [Marcus](https://github.com/viniciusmatoso)
+- [Michael](https://github.com/MichaelKnopacki)
+
+Orientados pelo Instrutor [Adriano Leite da Silva](https://github.com/adrianoleitedasilva)
